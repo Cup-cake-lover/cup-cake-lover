@@ -14,7 +14,10 @@ I am graduate student in Physics. Currently pursuing a master's degree.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cup-cake-lover&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=cup-cake-lover&icon=2&color=2)](https://visitcount.itsvg.in)
+
+###
+
+<img src="https://raw.githubusercontent.com/cup-cake-lover/cup-cake-lover/output/snake.svg" alt="Snake animation" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
