@@ -1,3 +1,3 @@
 # 💫 About Me:
-I am a Physics student. Currently pursuing a master's degree, from University of Cologne, Germany. 
+I am a Physics student. Currently holds a master's degree, from University of Cologne, Germany. 
 
